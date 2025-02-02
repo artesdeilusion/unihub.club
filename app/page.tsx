@@ -1,5 +1,4 @@
-import Image from "next/image";
- import { Campaign, CardGiftcard, Celebration, ContactMail, Discount, DiscountOutlined, Event, Groups, Handshake,  Mic, Mood, MyLocation, People, RocketLaunch, School, ShowChart, Storefront } from "@mui/icons-material";
+  import { Campaign,   Discount,  Event, Groups, Handshake,  Mic, Mood,   RocketLaunch, School,  } from "@mui/icons-material";
 import Link from "next/dist/client/link";
    
  
@@ -213,7 +212,7 @@ export default function Home() {
                                         Etkinlik ve workshop ayrıcalıkları
                                         </h6>
                                         <p className="text-sm  ">
-                                        UniHub'ın düzenlediği etkinliklere, seminerlere ve workshop’lara öncelikli katılım hakkı elde edersiniz.
+                                        UniHub&apos;ın düzenlediği etkinliklere, seminerlere ve workshop’lara öncelikli katılım hakkı elde edersiniz.
 
 </p>
                                     </div>

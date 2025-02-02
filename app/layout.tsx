@@ -23,7 +23,7 @@ export default function RootLayout({
     <html className="bg-white" lang="en">
        
       <body
-        className={`antialiased`}>
+        className={outfit.className}>
           <nav>
         <Navbar></Navbar>
       </nav>
