@@ -8,9 +8,9 @@ import Link from "next/dist/client/link";
 export default function Home() {
  
   return (
-   <div className="bg-white">
+   <div  >
     <section className=" lg:pt-16 pt-8 text-black">
-    <div className="flex items-center justify-center p-6 mt-20   h-72 sm:h-80   xl:h-112 2xl:h-128">
+    <div className="flex items-center justify-center p-6     h-72 sm:h-80   xl:h-112 2xl:h-128">
 			<img src="/clubhub.png" alt="" className="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128" />
 		</div>
 
@@ -20,7 +20,7 @@ export default function Home() {
 				<span className="text-red-400 block">Birlikte</span> Daha Güçlü
 			</h1>
 <div className="max-w-lg mx-auto">
-<p className="mt-6 mb-8 text-lg sm:mb-12">Burada networking etkinliklerinden şehir keşiflerine, kariyer buluşmalarından sosyal sorumluluk projelerine kadar birçok fırsat sizi bekliyor.
+<p className="mt-6 mb-8 text-lg  ">Burada networking etkinliklerinden şehir keşiflerine, kariyer buluşmalarından sosyal sorumluluk projelerine kadar birçok fırsat sizi bekliyor.
 
 
 </p>
@@ -139,7 +139,7 @@ export default function Home() {
                  UniHub Nedir?
                </h2>
        
-               <p className=" text-xl mt-4 text-center text-black ">UniHub Club, öğrencilerin hem sosyal hem de profesyonel olarak gelişebileceği bir topluluktur. Amacımız, üniversite hayatını daha keyifli hale getirmek, öğrencilerin yeni insanlarla tanışmasını sağlamak ve kariyer yolculuklarında destek olmaktır.
+               <p className=" text-xl mt-4 text-center text-black ">UniHub, öğrencilerin hem sosyal hem de profesyonel olarak gelişebileceği bir topluluktur. Amacımız, üniversite hayatını daha keyifli hale getirmek, öğrencilerin yeni insanlarla tanışmasını sağlamak ve kariyer yolculuklarında destek olmaktır.
 
 </p>
        
